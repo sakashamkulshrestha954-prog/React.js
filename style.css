@@ -1,0 +1,22 @@
+.heading{
+    text-align: center;
+}
+.button{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+    border: solid black 2px;
+    display: inline-block;
+}
+#yellow{
+    background-color: yellow;
+}
+#skyblue{
+    background-color: skyblue;
+}
+#red{
+    background-color:red;
+}
+#green{
+    background-color: green;
+}
